@@ -47,12 +47,7 @@ function Experiance() {
     { id: 13, logo: mongodb, name: "MongoDB" },
     { id: 14, logo: mssql, name: "MSSQL" },
     { id: 15, logo: mysql, name: "MySQL" },
-    { id: 16, logo: node, name: "Node.js" },
     { id: 17, logo: firebase, name: "Firebase" },
-      { id: 18, logo: aspnet, name: "ASP.NET" },
-    { id: 19, logo: express, name: "Express" },
-    { id: 20, logo: reactjs, name: "React.js" },
-    { id: 21, logo: vuejs, name: "Vue.js" },
     { id: 22, logo: git, name: "Git" },
     { id: 23, logo: github, name: "GitHub" },
     { id: 24, logo: oracle, name: "Oracle" },
@@ -62,13 +57,13 @@ function Experiance() {
     { id: 28, logo: inteljidea, name: "IntelliJ IDEA" },
     { id: 29, logo: vscode, name: "VS Code" },
     { id: 30, logo: unity, name: "Unity" },
-    
-    
-    
-    
-    
-    
-    
+
+
+
+
+
+
+
   ];
 
   return (

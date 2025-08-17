@@ -30,20 +30,20 @@ function About() {
           Skills & Expertise
         </h1>
         <span>
-  <strong>Programming Languages:</strong> C, C++, Java, Python, Kotlin, C#, JavaScript, PHP
-  <br />
-  <strong>App Development:</strong> Android SDK, Jetpack Compose, Java/Kotlin, Firebase APIs
-  <br />
-  <strong>Web Development:</strong> HTML, CSS, JavaScript, React, Vue.js, ASP.NET Core, Node.js, Express.js
-  <br />
-  <strong>Backend & Databases:</strong> MySQL, MS SQL Server, MongoDB, Firebase Realtime DB
-  <br />
-  <strong>Data Structures & Algorithms:</strong> Strong foundation in DSA, problem-solving, and algorithm design
-  <br />
-  <strong>Tools & Platforms:</strong> Git, GitHub, VS Code, Android Studio
-  <br />
-  <strong>AI & Machine Learning:</strong> Built and deployed gesture recognition model using TensorFlow
-</span>
+          <strong>Programming Languages:</strong> C, C++, Java, Python, Kotlin, C#, JavaScript, PHP
+          <br />
+          <strong>App Development:</strong> Android SDK, Jetpack Compose, Java/Kotlin, Firebase APIs
+          <br />
+          <strong>Web Development:</strong> HTML, CSS, JavaScript
+          <br />
+          <strong>Backend & Databases:</strong> MySQL, MS SQL Server, MongoDB, Firebase Realtime DB
+          <br />
+          <strong>Data Structures & Algorithms:</strong> Strong foundation in DSA, problem-solving, and algorithm design
+          <br />
+          <strong>Tools & Platforms:</strong> Git, GitHub, VS Code, Android Studio
+          <br />
+          <strong>AI & Machine Learning:</strong> Built and deployed gesture recognition model using TensorFlow
+        </span>
         <br />
         <br />
 
